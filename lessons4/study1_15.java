@@ -21,5 +21,6 @@ class study1_15 {
     System.out.println("身長は" + height + "mです");
     System.out.println("体重は" + weight + "kgです");
     System.out.println("BMIは" + bmi + "です");
+
   }
 }
